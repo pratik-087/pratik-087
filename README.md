@@ -1,6 +1,4 @@
-## Hi there 👋
 
-## 🟩 GitHub Streak Tracker
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pratik-087&theme=tokyonight&hide_border=true)
 
