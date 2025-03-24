@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🟩 GitHub Streak Tracker
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pratik-087&theme=tokyonight&hide_border=true)
+
+
+
 <!--
 **pratik-087/pratik-087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
