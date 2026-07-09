@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Java Development <br>🤝 I’m looking for help with<br>🌱 I’m currently learning DSA <br>
+🔭 I’m currently working on Backend Java Development <br>🌱 I’m currently learning DSA <br>
 
 
 # 💻 Tech Stack:
